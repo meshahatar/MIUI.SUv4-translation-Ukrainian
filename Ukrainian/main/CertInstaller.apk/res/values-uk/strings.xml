@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name" msgid="9095072584761066851">"Програма встановлення сертифікату"</string>
+    <string name="pick_file_title" msgid="540508675168568249">"Виберіть сертифікат"</string>
+    <string name="pkcs12_password_dialog_title" msgid="5997624645207427161">"Видобування сертифіката"</string>
+    <string name="extracting_pkcs12" msgid="5687649614233029807">"Видобування..."</string>
+    <string name="pkcs12_file_password_dialog_title" msgid="8102721384767269510">"Видобування з %s"</string>
+    <string name="name_credential_dialog_title" msgid="277729846491554437">"Вкажіть назву сертифікату"</string>
+    <string name="credential_name" msgid="1974979771369744378">"Назва сертифікату:"</string>
+    <string name="credential_password" msgid="5251535810456146069">"Введіть пароль для видобування сертифікатів."</string>
+    <string name="credential_info" msgid="2436768402308470397">"Пакет містить:"</string>
+    <string name="p12_description" msgid="4128352087331630024">"Сертифікат знаходиться у сховищі ключів PKCS12."</string>
+    <string name="one_userkey" msgid="3500697912370644881">"один ключ користувача"</string>
+    <string name="one_usercrt" msgid="7690798336332403106">"один користувацький сертифікат"</string>
+    <string name="one_cacrt" msgid="2667950425420663146">"один сертифікат центру сертифікації"</string>
+    <string name="n_cacrts" msgid="2141498640685639208">"Сертифікатів центру сертифікації: %d"</string>
+    <string name="password_error" msgid="1441470604400783036">"Введіть правильний пароль."</string>
+    <string name="password_empty_error" msgid="5805075735548023047">"Введіть пароль."</string>
+    <string name="name_empty_error" msgid="7655653930227877414">"Введіть назву."</string>
+    <string name="name_char_error" msgid="4674369917792581202">"Ім’я має складатися з літер і цифр."</string>
+    <string name="storage_error" msgid="3375395655677579149">"Не вдається зберегти сертифікат. Натисніть ОК і спробуйте знову."</string>
+    <string name="unable_to_save_cert" msgid="864273038676458624">"Не вдається зберегти сертифікат. Сховище реєстраційних даних не ввімкнене або некоректно ініціалізоване."</string>
+    <string name="cert_not_saved" msgid="4037698479662830270">"Сертифікат не встановлено."</string>
+    <string name="no_cert_to_saved" msgid="5708884372817309068">"Відсутній сертифікат для встановлення."</string>
+    <string name="invalid_cert" msgid="7704228670980743590">"Сертифікат не дійсний."</string>
+    <string name="cert_is_added" msgid="6996557598167000500">"%s встановлений."</string>
+    <string name="cert_too_large_error" msgid="8806716564341320607">"Встановлення не вдалося. Розмір сертифіката надто великий."</string>
+    <string name="cert_missing_error" msgid="4220080091005628628">"Встановлення завершилося з помилкою. Не вдається знайти файл сертифіката."</string>
+    <string name="cert_read_error" msgid="9120813657318906215">"Встановлення завершилося з помилкою. Не вдається прочитати файл сертифіката."</string>
+    <string name="no_cert_file_found" product="nosdcard" msgid="3555332946357131929">"На USB-накопичувачі відсутній файл сертифіката."</string>
+    <string name="no_cert_file_found" product="default" msgid="1942077544887243999">"На SD-карті відсутній файл сертифіката."</string>
+    <string name="sdcard_not_present" product="nosdcard" msgid="9197143240492611196">"USB-накопичувач недоступний."</string>
+    <string name="sdcard_not_present" product="default" msgid="1567335300760018448">"SD-карта відсутня."</string>
+</resources>
