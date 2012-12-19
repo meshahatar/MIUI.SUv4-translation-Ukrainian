@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<resources>
     <string name="app_label">Менеджер завантажень</string>
     <string name="permlab_downloadManager">Доступ до менеджера завантажень.</string>
     <string name="permdesc_downloadManager">Дозволяє програмам використовувати менеджер завантажень для скачування файлів. Шклідливе ПО може перервати завантаження та отримати доступ до особистої інформації .</string>
