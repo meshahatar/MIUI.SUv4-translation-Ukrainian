@@ -15,7 +15,7 @@
     <string name="permdesc_downloadWithoutNotification">Дозволяє програмам завантажувати файли, не виводячі повідомлення про закінчення завантажень.</string>
     <string name="permlab_accessAllDownloads">Доступ до всіх системних завантажень</string>
     <string name="permdesc_accessAllDownloads">Дозволяє переглядати або змінювати всі завантаження, які зроблені будь-якою програмою.</string>
-    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="download_unknown_title">&lt;Untitled&gt;</string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" та %d більше"</string>
     <string name="notification_download_complete">Завантаження закінчено.</string>
@@ -38,5 +38,5 @@
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Недостатньо місця на зовнішньому нсії</string>
     <string name="dialog_insufficient_space_on_cache">Недостатньо місця на внутрішньому носії</string>
-    <string name="auto_restart_under_wifi">WLAN завантаже цей файл автоматично</string>
+    <string name="auto_restart_under_wifi">Wi-Fi завантаже цей файл автоматично</string>
 </resources>
