@@ -94,7 +94,7 @@
     <string name="file_loading">Завантаження…</string>
     <string name="remote_management">FTP</string>
     <string name="multi_select_title">%1$ вибрано</string>
-    <string name="tab_networkdisk">KuaiPan</string> // ???
+    <string name="tab_networkdisk">KuaiPan</string>
     <string name="operation_download_link">Згенерувати ссилку</string>
     <string name="ui_filechange_btn_download">Завантажити файли</string>
     <string name="show_message">Файл не може бути вiдкритий без завантаження</string>
