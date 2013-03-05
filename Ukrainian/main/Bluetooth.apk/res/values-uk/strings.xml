@@ -37,7 +37,7 @@
 	<string name="download_line2">Файл: %1$s</string>
 	<string name="download_line3">Размір файла: %1$s</string>
 	<string name="download_line4"></string>
-	<string name="download_line5">Отримання файла...</string>
+	<string name="download_line5">Отримання файла…</string>
 	<string name="download_cancel">Зупинити</string>
 	<string name="download_ok">Приховати</string>
 	<string name="download_fail_line1">Файл не отримано.</string>
@@ -48,7 +48,7 @@
 	<string name="download_succ_ok">Відкрити</string>
 	<string name="upload_line1">Куди: \"%1$s\"</string>
 	<string formatted="false" name="upload_line3">Тип файла: %1$s (%2$s)</string>
-	<string name="upload_line5">Надсилання файла...</string>
+	<string name="upload_line5">Надсилання файла…</string>
 	<string name="upload_succ_line5">Файл надіслано</string>
 	<string name="upload_succ_ok">ОК</string>
 	<string name="upload_fail_line1">Файл не був надісланий на пристрій \"%1$s\".</string>
@@ -60,8 +60,8 @@
 	<string name="unknown_file_desc">Відсутній додаток для работи з файлами цього типу. \n</string>
 	<string name="not_exist_file">Файл відсутній</string>
 	<string name="not_exist_file_desc">Файл не існує. \n</string>
-	<string name="enabling_progress_title">Зачекайте...</string>
-	<string name="enabling_progress_content">Ввімкнення Bluetooth...</string>
+	<string name="enabling_progress_title">Зачекайте…</string>
+	<string name="enabling_progress_content">Ввімкнення Bluetooth…</string>
 	<string name="bt_toast_1">Цей файл буде отриманий. Хід виконання відображається на панелі сповіщень.</string>
 	<string name="bt_toast_2">Неможливо отрмати файл.</string>
 	<string name="bt_toast_3">отримання файла від \"%1$s\" перерване</string>

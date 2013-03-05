@@ -23,8 +23,8 @@
     <string name="no_have_video">Відео файл не існує або невірний файл</string>
     <string name="camera_more">Ще</string>
     <string name="rename">Перейменувати</string>
-    <string name="rename_dialog_message">Введіть ім'я</string>
-    <string name="name_is_empty">Пусте ім'я</string>
+    <string name="rename_dialog_message">"Введіть ім'я"</string>
+    <string name="name_is_empty">"Пусте ім'я"</string>
     <string name="already_exists">Вже існує</string>
     <string name="unable_to_rename">Неможливо перейменувати</string>
     <string name="failed_to_rename">Помилка перейменування</string>

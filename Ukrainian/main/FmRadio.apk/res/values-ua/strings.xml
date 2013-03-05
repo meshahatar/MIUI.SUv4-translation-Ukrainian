@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="AF_Threshold">Встановити AF Threshold (INT)</string>
   <string name="AF_Valid_Threshold">Set AF Valid Threshold (int)</string>
@@ -39,7 +39,7 @@
   <string name="remove">Видалити</string>
   <string name="rename">Перейменувати</string>
   <string name="rename_channel">Перейменувати</string>
-  <string name="rename_text">Введіть ім'я</string>
+  <string name="rename_text">"Введіть ім'я"</string>
   <string name="replace">Замінити</string>
   <string name="save">Зберегти</string>
   <string name="scan">Сканувати</string>

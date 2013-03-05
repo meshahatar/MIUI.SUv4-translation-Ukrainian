@@ -3,7 +3,7 @@
     <string name="app_name">Диктофон</string>
     <string name="recording">Запис</string>
     <string name="recording_stopped">Запис зупынен</string>
-    <string name="storage_is_full">Пам'ять заповнена</string>
+    <string name="storage_is_full">"Пам'ять заповнена"</string>
     <string name="max_length_reached">Досягнута максимальна довжина</string>
     <string name="insert_sd_card">Підключіть SD-карту</string>
     <string name="button_ok">ОК</string>
@@ -32,7 +32,7 @@
     <string name="notification_playback">Відтворення…</string>
     <string name="notification_playback_paused">Відтворення призупинено…</string>
     <string name="notification_stopped">Запис зупинен</string>
-    <string name="notification_warning">Мало пам'яті (залишилося менше %d хвилин)…</string>
+    <string name="notification_warning">"Мало пам'яті (залишилося менше %d хвилин)…"</string>
     <string name="record_list">Список записів</string>
     <string name="sd_card_not_available">SD-карта недоступна</string>
     <string name="call_record">Записи дзівнків(%d)</string>

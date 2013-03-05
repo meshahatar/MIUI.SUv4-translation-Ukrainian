@@ -45,7 +45,7 @@
     <string name="message_list_send_pending_messages_action">Надіслати всі повідомлення</string>
     <string name="choose_attachment_dialog_title">Обрати додаток</string>
     <string name="move_to_folder_dialog_title">Перемістити у теку</string>
-    <string name="status_loading_messages">Завантаження повідомлень...</string>
+    <string name="status_loading_messages">Завантаження повідомлень…</string>
     <string name="status_network_error">Помилка підключення.</string>
     <string name="error_loading_message_body">Не вдалось завантажити повідомлення. Можливо, воно надто велике.</string>
     <string name="cannot_move_protocol_not_supported_toast">Переміщення не підтримується в акаунтах POP3.</string>
@@ -199,9 +199,9 @@
     <string name="account_duplicate_dlg_title">Копіювати акаунт</string>
     <string name="account_duplicate_dlg_message_fmt">"Це ім’я вже використовується в акаунті \"%s\"."</string>
     <string name="account_password_spaces_error">Пароль починається або закінчується пробілом. Деякі сервери не підтримують паролі з пробілами.</string>
-    <string name="account_setup_check_settings_retr_info_msg">Отримання інформації акаунта...</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Перевірка налаштувань сервера вхідних повідомлень...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Перевірка налаштувань сервера вихідних повідомлень...</string>
+    <string name="account_setup_check_settings_retr_info_msg">Отримання інформації акаунта…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Перевірка налаштувань сервера вхідних повідомлень…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Перевірка налаштувань сервера вихідних повідомлень…</string>
     <string name="account_setup_names_title">Налаштування акаунта</string>
     <string name="account_setup_names_headline">Ваш акаунт налаштовано, чекайте на листи!</string>
     <string name="account_setup_names_account_name_label">Присвойте цьому акаунту назву (за бажанням)</string>
@@ -329,7 +329,7 @@
     <string name="account_settings_outgoing_label">Налаштування вихідних повідомлень</string>
     <string name="account_settings_outgoing_summary">Ім’я користувача, пароль і інше, налаштування сервера вихідної пошти</string>
     <string name="account_settings_description_label">Назва акаунта</string>
-    <string name="account_settings_name_label">Ваше ім'я</string>
+    <string name="account_settings_name_label">"Ваше ім'я"</string>
     <string name="account_settings_signature_label">Підпис</string>
     <string name="account_settings_edit_quick_responses_label">Швидкі відповіді</string>
     <string name="account_settings_edit_quick_responses_summary">Змінити текст, який часто використовується у ваших листах</string>
@@ -402,7 +402,7 @@
     <string name="widget_all_mail">Всі отримані</string>
     <string name="widget_unread">Непрочитані</string>
     <string name="widget_starred">Відмічені</string>
-    <string name="widget_loading">Завантаження...</string>
+    <string name="widget_loading">Завантаження…</string>
     <string name="widget_touch_to_configure">Натисніть для налаштування.</string>
     <string name="widget_no_accounts">Ви ще не додали акаунт електронної пошти.</string>
     <string name="more_than_999">999+</string>
@@ -493,8 +493,8 @@
     <string name="notify_paused">Завантаження призупинені</string>
     <string name="notify_activation_reminder">Функція завантаження з телефону ще не активна</string>
     <string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки через Wi-Fi.</string>
-    <string name="dialog_sync_all_scanning">Пошук файлів...</string>
-    <string name="dialog_sync_all_preparing" formatted="false">Підготовка %1$d фото і %2$d відео до завантаження...</string>
+    <string name="dialog_sync_all_scanning">Пошук файлів…</string>
+    <string name="dialog_sync_all_preparing" formatted="false">Підготовка %1$d фото і %2$d відео до завантаження…</string>
     <string name="dialog_sync_all_found_none">Додаткових фотографій чи відеороликів не знайдено.</string>
     <string name="dialog_sync_all_server_error">Не вдалося зв’язатися з сервером. Спробуйте ще раз пізніше.</string>
     <string name="dialog_sync_all_canceled">"Команда \"Синхронізувати все\" скасована"</string>
@@ -558,7 +558,7 @@
     <string name="contextmenu_sharelink">Надіслати посилання</string>
     <string name="contextmenu_help">Довідка</string>
     <string name="contextmenu_feedback">Надіслати відгук</string>
-    <string name="more_string">Ще %1$s...</string>
+    <string name="more_string">Ще %1$s…</string>
     <string name="chips_waiting_for_directory_result">Очікування відповідей</string>
     <string name="copy">Скопіювати адресу ел.пошти</string>
 </resources>

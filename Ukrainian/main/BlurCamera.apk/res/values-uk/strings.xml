@@ -134,7 +134,7 @@
     <string name="web_addr_setting_action">Налаштування адрес</string>
     <string name="web_upload_action">Веб завантаження</string>
     <string name="share_multiple_action">Поділитися</string>
-    <string name="share_single_action">Поділитися через ...</string>
+    <string name="share_single_action">Поділитися через …</string>
     <string name="webaddrssetting_title">Налаштування веб завантаження</string>
     <string name="dialog_web_upload">Адреса веб завантаження:</string>
     <string name="web_add_addrs_title">Додайте адресу веб завантаження</string>

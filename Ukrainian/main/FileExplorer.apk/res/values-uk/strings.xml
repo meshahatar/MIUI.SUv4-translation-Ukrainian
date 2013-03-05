@@ -43,8 +43,8 @@
     <string name="category_favorite">Улюбленне</string>
     <string name="category_bluetooth">Bluetooth</string>
     <string name="category_log">Журнал</string>
-    <string name="operation_rename_message">Введить нове iм'я</string>
-    <string name="operation_create_folder_message">Введить iм'я папки</string>
+    <string name="operation_rename_message">"Введить нове iм'я"</string>
+    <string name="operation_create_folder_message">"Введить iм'я папки"</string>
     <string name="operation_delete_confirm_message">Видалити</string>
     <string name="operation_delete_confirm_message_folder">"Видалення папки також зiтре усi файли у нiй.\n "</string>
     <string name="delete_folder">Ви впевненнi, що хочете видалити цю папку?</string>
@@ -68,8 +68,8 @@
     <string name="operation_moving">Перемiщення…</string>
     <string name="confirm_know">ОК</string>
     <string name="error_info_cant_send_folder">Неможна вiдправляти папку</string>
-    <string name="fail_to_create_folder">Неможливо створити: файл або папка з таким iм'ям вже існує</string>
-    <string name="fail_to_rename">Неможливо перейменувати: файл або папка з таким iм'ям вже існує</string>
+    <string name="fail_to_create_folder">"Неможливо створити: файл або папка з таким iм'ям вже існує"</string>
+    <string name="fail_to_rename">"Неможливо перейменувати: файл або папка з таким iм'ям вже існує"</string>
     <string name="enable_sd_card">SD картка недоступна. Будь ласка, вставте картку або вимкнiть USB пiдключення</string>
     <string name="start_server">Старт</string>
     <string name="stop_server">Стоп</string>
@@ -82,7 +82,7 @@
     <string name="no_wifi">Wi-Fi вимкнений</string>
     <string name="no_wifi_hint">Wi-Fi не пiдключено. Натиснiть для переходу до налаштувань</string>
     <string name="search_title">Пошук</string>
-    <string name="search_hint">Введiть частину, або повне iм'я файлу</string>
+    <string name="search_hint">"Введiть частину, або повне iм'я файлу"</string>
     <string name="dialog_select_type">Оберiть тип</string>
     <string name="dialog_type_text">Текст</string>
     <string name="dialog_type_audio">Аудiо</string>
@@ -115,7 +115,7 @@
     <string name="start_use_xiaomi_account">Start to use</string>
     <string name="pan_settting">KuaiPan налаштування</string>
     <string name="xiaomi_account">Xiaomi аккаунт</string>
-    <string name="space_usage">Використано пам'ятi</string>
+    <string name="space_usage">"Використано пам'ятi"</string>
     <string name="local_cache">Локальний кеш</string>
     <string name="clear_cache">Очистити кеш</string>
     <string name="used">Використано</string>
@@ -186,7 +186,7 @@
     <string name="ftp_transfer_secure">Захист передачі</string>
     <string name="ftp_port_number">Номер порту</string>
     <string name="ftp_account_req_notice">Логін і пароль, 4-16 симв., Включаючи цифри, букви, чутливі до регістру</string>
-    <string name="ftp_open_port_error">Помилка, при відкритті порту, перевірте з'єднання.</string>
+    <string name="ftp_open_port_error">"Помилка, при відкритті порту, перевірте з'єднання."</string>
     <string name="ftp_anonymous_login">Анонімний</string>
     <string name="ftp_username_and_passworld">Логін і пароль</string>
     <string name="ftp_username_hint">Логін</string>
@@ -217,14 +217,14 @@
     <string name="trans_task">Передача по мережі</string>
     <string name="des_running_trans">Ще %1$d файлів потрібно передати</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Натисніть&lt;/a&gt;щоб очистити корзину</string>
-    <string name="storage_internal">ВНУТРІШНЯ ПАМ'ЯТЬ</string>
+    <string name="storage_internal">"ВНУТРІШНЯ ПАМ'ЯТЬ"</string>
     <string name="storage_sd_card">SD-карта</string>
     <string name="storage_usb">USB-накопичувач</string>    
-    <string name="bind_account">Прив'язати до аккаунту KuaiPan</string>
+    <string name="bind_account">"Прив'язати до аккаунту KuaiPan"</string>
     <string name="bind_account_summary">Якщо у Вас вже є аккаунт KuaiPan， тоді ви можете увійти до нього, щоб отримати доступ до його даних.</string>
-    <string name="binded_accout_title">Ви вже прив'язані до аккаунту KuiaPan</string>
+    <string name="binded_accout_title">"Ви вже прив'язані до аккаунту KuiaPan"</string>
     <string name="binded_accout_description">Два аккаунта були об'єднані. Для входу Ви можете використовувати аккаунт Xiaomi, або аккаунт KuaiPan - обидва мають досту до Ваших даних</string>
-    <string name="binding_accout_title">Прив'язка до існуючого аккаунту KuaiPan</string>
+    <string name="binding_accout_title">"Прив'язка до існуючого аккаунту KuaiPan"</string>
     <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Увага! Ця операція незворотна!</string>
 </resources>

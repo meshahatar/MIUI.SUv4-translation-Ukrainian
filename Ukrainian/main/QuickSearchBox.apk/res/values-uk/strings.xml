@@ -3,7 +3,7 @@
     <string name="app_name">Пошук</string>
     <string name="search_widget">Пошук</string>
     <string name="remove_from_history">Видалити з історії пошуку</string>
-    <string name="remove_from_history_failed">Не вдалося видалити об'єкт з історії пошуку</string>
+    <string name="remove_from_history_failed">"Не вдалося видалити об'єкт з історії пошуку"</string>
     <string name="corpus_selection_heading">Пошук</string>
     <string name="corpus_label_global">Всі</string>
     <string name="corpus_label_web">Інтернет</string>

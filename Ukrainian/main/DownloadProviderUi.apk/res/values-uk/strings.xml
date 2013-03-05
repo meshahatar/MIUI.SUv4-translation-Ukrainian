@@ -54,7 +54,7 @@
     <string name="confirm_delete_downloads_message">%d Вибрані єлементи будуть видалені!</string>
     <string name="confirm_delete_the_download_item_message">Ви дійсно хочете видалити вибране?</string>
     <string name="delete_the_downloaded_file">Видалити завантажені єлементи.</string>
-    <string name="downloads_operating">Завантаження...</string>
+    <string name="downloads_operating">Завантаження…</string>
     <string name="confirm_disable_download_only_in_wifi_message">Вимкнення "Завантажувати тільки через Wi-Fi" можливо призведе до додатковим витратам. Ви певні, що хочете вимкнути?</string>
     <string name="select_operation_items">Будь-ласка, виберіть єлементи</string>
     <string name="preferences_title">Налаштування</string>

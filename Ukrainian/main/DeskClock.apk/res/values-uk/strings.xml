@@ -63,7 +63,7 @@
 	<string name="weather_fetch_failure">Інформація про погоду зараз не доступна.</string>
 	<string name="menu_item_dock_settings">Налаштування док-станції</string>
 	<string name="alarm_klaxon_service_desc">Служба відтворення сигналів у годиннику.</string>
-	<string name="loading_ringtone">Завантаження мелодії дзвінка...</string>
+	<string name="loading_ringtone">Завантаження мелодії дзвінка…</string>
 	<string name="control_set_alarm">Встановити будильник</string>
 	<string name="control_set_alarm_with_existing">Будильник встановлено на %s</string>
 	<string name="common_settings">Загальні налаштування</string>

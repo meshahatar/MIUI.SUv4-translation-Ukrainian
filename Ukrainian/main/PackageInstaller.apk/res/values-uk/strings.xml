@@ -26,7 +26,7 @@
   <string name="settings">Налаштування</string>
   <string name="trust_switch_dialog_msg">MIUI не буде питати вашого дозволу на будь-які дії цієї програми. Довіряти цій програмі?</string>
   <string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>
-  <string name="allow_source_dlg_text">%1$s хоче встановити інші програми.\n\nДозволити і запам'ятати вибір?</string>
+  <string name="allow_source_dlg_text">"%1$s хоче встановити інші програми.\n\nДозволити і запам'ятати вибір?"</string>
   <string name="manage_applications">Керування програмами</string>
   <string name="dlg_app_replacement_title">Замінити програму</string>
   <string name="dlg_app_replacement_statement">Програма, яку ви встановлюєте, замінить інший додаток.\n\nВсі ваші дані будуть збережені.</string>
@@ -61,7 +61,7 @@
   <string name="Parse_error_dlg_text">При синтаксичному аналізі пакету виникла неполадка.</string>
   <string name="lift_ban">Зняти заборону</string>
   <string name="low_risk_perms">Слабо небезпечні дозволи</string>
-  <string name="caller_app">Зв'язок: %1$s</string>
+  <string name="caller_app">"Зв'язок: %1$s"</string>
   <string name="uninstall_failed_retained_app_msg">Програма, змінениа оператором, не може бути видалена</string>
   <string name="safe_guard_support">Захист забезпечує %1$s</string>
   <string name="safe_relative">Особиста безпека</string>
