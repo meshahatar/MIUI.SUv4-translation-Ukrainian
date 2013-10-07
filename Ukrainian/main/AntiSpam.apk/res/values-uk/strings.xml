@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Анти-спам</string>
+    <string name="app_name">Антиспам</string>
     <string name="firewall_settings_tab_title">Правила</string>
     <string name="black_white_list_tab_title">Фільтри</string>
     <string name="call_log_tab_title">Виклики</string>
@@ -16,7 +16,7 @@
     <string name="fw_all_day">Щоденно</string>
     <string name="fw_period">Період</string>
     <string name="fw_advanced_settings">Розширені налаштування</string>
-    <string name="anti_stranger_title">Режим Для своїх</string>
+    <string name="anti_stranger_title">Режим \"Для своїх\"</string>
     <string name="anti_stranger_summary">Відхиляти невідомі номери</string>
     <string name="anti_private_title">Блокувати приватні номери</string>
     <string name="anti_private_summary">Перехоплювати і блокувати приватні номери із записом в журнал</string>
@@ -64,8 +64,8 @@
     <string name="fw_clear_blacklist">Очистити чорний список</string>
     <string name="fw_clear_whitelist">Очистити білий список</string>
     <string name="fw_restore_ms">Відновити SMS</string>
-    <string name="fw_ms" formatted="false">Перехоплено SMS：%s (%d)</string>
-    <string name="fw_call" formatted="false">Перехоплено викликів ：%s (%d)</string>
+    <string name="fw_ms" formatted="false">Перехоплено SMS: %s (%d)</string>
+    <string name="fw_call" formatted="false">Перехоплено викликів: %s (%d)</string>
     <string name="fw_import_blacklist">Імпорт чорного списка</string>
     <string name="fw_import_whitelist">Імпорт білого списка</string>
 	<string name="fw_import_blacklist_confirm" formatted="false">Вибрано номерів: %d. Занести їх в чорний список?</string>
@@ -94,7 +94,7 @@
     <string name="firewall_log">Журнал анти-спама</string>
     <string name="fw_on">Режим Не Турбувати ввімкнено</string>
     <string name="fw_blocked">Заблоковані, статистика</string>
-    <string name="fw_blocked_count" formatted="false">Блоковано дзвінків - %d, повідомлень - %d</string>
+    <string name="fw_blocked_count" formatted="false">Дзвінкі: %d, SMS: %d</string>
     <string name="firewall_settings">Налаштування режиму Не Турбувати</string>
     <string name="remove">Видалити</string>
     <string name="emptylist_fwlog_call">Всі заблоковані виклики будуть зберігатися в журналі</string>
@@ -108,8 +108,8 @@
     <string name="edit_whitelist">Редагувати запис</string>
     <string name="fw_notes_hint">Примітка (Не обов’язково)</string>
     <string name="number_add_hint">Введіть номер, щоб додати його в білий список</string>
-    <string name="fw_in_blacklist">Номер: %s вже в чорному списку</string>
-    <string name="fw_in_whitelist">Номер: %s вже в білому списку</string>
+    <string name="fw_in_blacklist">%s вже в чорному списку</string>
+    <string name="fw_in_whitelist">%s вже в білому списку</string>
     <string name="fw_import_ms">Імпорт всіх повідомлень</string>
     <string name="confirm_clear_blacklist">Очистити чорний список. Впевнені?</string>
     <string name="confirm_clear_whitelist">Очистити білий список. Впевнені?</string>
