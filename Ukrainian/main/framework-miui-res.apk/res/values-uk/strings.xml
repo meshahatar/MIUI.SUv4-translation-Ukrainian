@@ -52,7 +52,7 @@
     <string name="theme_update_request_content">Необхідно оновлення тем до нового формату. Оновлення займе деякий час. Так само теми скачані з мережі не будуть застосовуватися, продовжити?</string>
     <string name="theme_update_request_continue_content">Попередне оновлення тем не завершено, поновити?</string>
     <string name="theme_updating_title">Оновлення теми</string>
-    <string name="theme_updating_precontent">Підготовка, зачекайте...</string>
+    <string name="theme_updating_precontent">Підготовка, зачекайте…</string>
     <string name="miro_menu_overflow">Ще</string>
     <string name="status_bar_toggle_power_mode">Режим живлення</string>
     <string name="theme_updating_content">Оновлення %1$d з %2$d, зачекайте</string>

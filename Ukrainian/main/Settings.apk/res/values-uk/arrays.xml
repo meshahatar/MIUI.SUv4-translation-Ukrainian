@@ -61,25 +61,25 @@
   </string-array>
   <string-array name="wifi_status">
 	<item></item>
-	<item>Пошук...</item>
-	<item>Підключення...</item>
-	<item>Автентифікація...</item>
-	<item>Отримання IP-адреси...</item>
+	<item>Пошук…</item>
+	<item>Підключення…</item>
+	<item>Автентифікація…</item>
+	<item>Отримання IP-адреси…</item>
 	<item>Підключено</item>
 	<item>Призупинено</item>
-	<item>Відключення...</item>
+	<item>Відключення…</item>
 	<item>Немає підключення</item>
 	<item>Помилка</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
 	<item></item>
-	<item>Пошук...</item>
-	<item>З'єднання з мережею %1$s...</item>
-	<item>Аутентифік. мережі %1$s...</item>
-	<item>Отримання IP-адреси від %1$s...</item>
+	<item>Пошук…</item>
+	<item>З'єднання з мережею %1$s…</item>
+	<item>Аутентифік. мережі %1$s…</item>
+	<item>Отримання IP-адреси від %1$s…</item>
 	<item>Підключено до %1$s</item>
 	<item>Призупинено</item>
-	<item>Відключення від %1$s...</item>
+	<item>Відключення від %1$s…</item>
 	<item>Немає підключення</item>
 	<item>Помилка</item>
   </string-array>
@@ -234,8 +234,8 @@
   </string-array>
   <string-array name="vpn_states">
 	<item>Вимкнено</item>
-	<item>Ініціалізація...</item>
-	<item>Підключення...</item>
+	<item>Ініціалізація…</item>
+	<item>Підключення…</item>
 	<item>Підключена</item>
 	<item>Час вичерпано</item>
 	<item>Помилка</item>
@@ -313,11 +313,11 @@
 	<item>Кіно</item>
   </string-array>
   <string-array name="wfd_status">
-	<item>Пристрій підключено, створення сесії...</item>
+	<item>Пристрій підключено, створення сесії…</item>
 	<item>Сесія створена</item>
-	<item>Сесія обірвана...</item>
+	<item>Сесія обірвана…</item>
 	<item>Сесія не створена</item>
-	<item>Минув час очікування, повтор...</item>
+	<item>Минув час очікування, повтор…</item>
 	<item>Пристрій підключено</item>
   </string-array>
   <string-array name="power_mode_entries">

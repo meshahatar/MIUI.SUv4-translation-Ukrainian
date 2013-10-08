@@ -73,7 +73,7 @@
 	<string name="enterPuk">Введіть PUK для розблокування SIM карти</string>
 	<string name="badPuk">Невірний PUK!</string>
 	<string name="buttonTxtContinue">Продовжити</string>
-	<string name="puk_unlocked">SIM-карта розблокована. Здійснюється розблокування телефону...</string>
+	<string name="puk_unlocked">SIM-карта розблокована. Здійснюється розблокування телефону…</string>
 	<string name="label_ndp">PIN для розблокування мережі SIM-карти</string>
 	<string name="label_nsdp">PIN-код розблокування домену мережі</string>
 	<string name="label_cdp">PIN корпоративної розблокування</string>
@@ -216,7 +216,7 @@
 	<string name="throttle_data_rate_reduced_subtext">Перевищено ліміт %1$s.\nСкорость передачі даних знижена до %2$d кбіт/с.</string>
 	<string name="throttle_time_frame_subtext">%1$d٪ циклів пройшло\nСледующий період починається через %2$d днів (%3$s)</string>
 	<string name="throttle_rate_subtext">Перевищення ліміту знижує швидкість передачі даних до %1$d кбит/з</string>
-	<string name="throttle_help_subtext">Детальніше про політику передачі даних вашого оператора мобільного зв'язку...</string>
+	<string name="throttle_help_subtext">Детальніше про політику передачі даних вашого оператора мобільного зв'язку…</string>
 	<string name="cdma_cell_broadcast_sms">Широкомовні SMS</string>
 	<string name="cell_broadcast_sms">Широкомовні SMS-служби</string>
 	<string name="enable_disable_cell_bc_sms">Широкомовні SMS-служби</string>
@@ -373,7 +373,7 @@
 	<string name="invalidPin">Введіть PIN-код, що містить від 4 до 8 цифр.</string>
 	<string name="disable_sim_pin">Вимкнути запит PIN SIM-карти</string>
 	<string name="enable_sim_pin">Включити запит PIN SIM-карти</string>
-	<string name="enable_in_progress">Зачекайте...</string>
+	<string name="enable_in_progress">Зачекайте…</string>
 	<string name="enable_pin_ok">Запит PIN SIM-карти включений</string>
 	<string name="disable_pin_ok">Запит PIN SIM-карти відключений</string>
 	<string name="pin_failed">Введений невірний PIN</string>
