@@ -54,12 +54,6 @@
     <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Нових повідомлень: %1$d</string>
     <string name="account_name_display_all">Всі акаунти</string>
-    <string name="mailbox_name_server_inbox">Отримані</string>
-    <string name="mailbox_name_server_outbox">Вихідні</string>
-    <string name="mailbox_name_server_drafts">Чорновики</string>
-    <string name="mailbox_name_server_trash">Кошик</string>
-    <string name="mailbox_name_server_sent">Надіслані</string>
-    <string name="mailbox_name_server_junk">Спам</string>
     <string name="mailbox_name_display_inbox">Отримані</string>
     <string name="mailbox_name_display_outbox">Вихідні</string>
     <string name="mailbox_name_display_drafts">Чорновики</string>
