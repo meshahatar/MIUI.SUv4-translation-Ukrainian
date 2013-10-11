@@ -75,10 +75,10 @@
     <string name="open_keyboard_to_compose_message">Відкрийте клавіатуру, щоб ввести повідомлення</string>
     <string name="compressing">Картинка занадто велика. Виконується стиснення…</string>
     <string name="unsupported_media_format">Непідтримуваний формат (%1$s).</string>
-    <string name="select_different_media">Виберіть інший об'єкт (%1$s).</string>
+    <string name="select_different_media">"Виберіть інший об'єкт (%1$s)."</string>
     <string name="exceed_message_size_limitation">Досягнутий максимальний розмір повідомлення.</string>
     <string name="message_too_big_for_video">Повідомлення занадто велике, щоб докласти відео.</string>
-    <string name="failed_to_add_media">Неможливо додати цей об'єкт (%1$s).</string>
+    <string name="failed_to_add_media">"Неможливо додати цей об'єкт (%1$s)."</string>
     <string name="failed_to_resize_image">Не вдалося змінити розмір малюнка.</string>
     <string name="resize_image_error_information">Зображення занадто велике для надсилання навіть після зміни розміру.</string>
     <string name="forward_prefix">Fwd: </string>
@@ -92,7 +92,7 @@
     <string name="invalid_recipient_message">Переконайтеся, що всі отримувачі вказані правильно.</string>
     <string name="cannot_send_message">Не вдалося відправити повідомлення</string>
     <string name="cannot_send_message_reason">Не вказано жодного реального одержувача.</string>
-    <string name="cannot_forward_drm_obj">Не можна переслати DRM-об'єкт з цього повідомлення.</string>
+    <string name="cannot_forward_drm_obj">"Не можна переслати DRM-об'єкт з цього повідомлення."</string>
     <string name="converting_to_picture_message">Перетворення в повідомлення MMS…</string>
     <string name="converting_to_text_message">Перетворення в повідомлення SMS…</string>
     <string name="cannot_add_slide_anymore">Додана максимальна кількість слайдів.</string>
@@ -130,7 +130,7 @@
     <string name="pref_notification_settings_title">Сповіщення</string>
     <string name="pref_mms_settings_title">Налаштування MMS</string>
     <string name="pref_sms_settings_title">Налаштування SMS</string>
-    <string name="pref_sms_storage_title">Пам'ять</string>
+    <string name="pref_sms_storage_title">"Пам'ять"</string>
     <string name="pref_summary_mms_delivery_reports">Запитувати звіт про доставку для всіх повідомлень</string>
     <string name="pref_summary_mms_read_reports">Запитувати звіт про прочитання для всіх повідомлень,</string>
     <string name="pref_summary_sms_delivery_reports">Запитувати звіт про доставку для всіх повідомлень</string>
@@ -193,7 +193,7 @@
     <string name="menu_delete_messages">Видалити повідомлення</string>
     <string name="menu_lock">У обране</string>
     <string name="menu_unlock">З обраного</string>
-    <string name="sim_copy_to_phone_memory">Копіювати в пам'ять телефону</string>
+    <string name="sim_copy_to_phone_memory">"Копіювати в пам'ять телефону"</string>
     <string name="sim_delete">Видалити</string>
     <string name="sim_view">Перегляд</string>
     <string name="delivery_header_title">Звіт</string>
@@ -221,8 +221,8 @@
     <string name="notification_failed_multiple">Не вдалося відправити повідомлення (%s)</string>
     <string name="notification_failed_multiple_title">Повідомлення не відправлено</string>
     <string name="sim_full_body">Видаліть декілька повідомлень, щоб звільнити місце.</string>
-    <string name="sms_full_title">Пам'ять для текстових повідомлень переповнена.</string>
-    <string name="sms_full_body">Пам'ять переповнена. Щоб зберегти нові повідомлення, видаліть кілька старих.</string>
+    <string name="sms_full_title">"Пам'ять для текстових повідомлень переповнена."</string>
+    <string name="sms_full_body">"Пам'ять переповнена. Щоб зберегти нові повідомлення, видаліть кілька старих."</string>
     <string name="sms_rejected_title">Повідомлення SMS відхилено.</string>
     <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини.</string>
     <string name="type_audio">аудіо</string>

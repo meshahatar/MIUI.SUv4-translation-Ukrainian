@@ -17,5 +17,5 @@
     <string name="non_idle_toast">Підключення до ПК доступно тільки в режимі очікування.\nЗакройте запущені програми.</string>
     <string name="media_scanner_running">Пошук медіа файлів…</string>
     <string name="media_scanner_finished">Пошук медіа файлів завершенo</string>
-    <string name="kies_software_check">Перевірка Kies(PC з'єднання S/W)</string>
+    <string name="kies_software_check">"Перевірка Kies(PC з'єднання S/W)"</string>
 </resources>

@@ -13,7 +13,7 @@
     <string name="alphabet">Алфавіт</string>
     <string name="digits">Цифри (0-9, *, #, +)</string>
     <string name="default_call_setup_msg">Здійснення дзвінка…</string>
-    <string name="default_setup_call_msg">Встановлення з'єднання</string>
+    <string name="default_setup_call_msg">"Встановлення з'єднання"</string>
     <string name="stk_app_state">Стан програми</string>
     <string name="enable_app">Увімкнено</string>
     <string name="disable_app">Вимкнено</string>

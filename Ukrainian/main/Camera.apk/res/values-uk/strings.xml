@@ -170,7 +170,7 @@
 	<string name="pref_camera_denoise_title">Усунення шумів</string>
 	<string name="pref_camera_denoise_entry_off">Вимкнути</string>
 	<string name="pref_camera_denoise_entry_on">Вкл</string>
-	<string name="pref_camera_iso_title> світлочутливість (ISO)</string>
+	<string name="pref_camera_iso_title">Світлочутливість (ISO)</string>
 	<string name="pref_camera_iso_entry_auto">Авто</string>
 	<string name="pref_camera_iso_entry_isodeblur">Авто ISO (HJR)</string>
 	<string name="pref_camera_preview_title">попередній Перегляд</string>

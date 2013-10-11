@@ -39,12 +39,12 @@
     <string name="fm_dialog_turning_on_label">FM вимикається…</string>
     <string name="fm_dialog_no_channel_msg">Не знайдено каналів, повторіть пізніше.</string>
     <string name="fm_new_preset">Дод.предустановку</string>
-    <string name="fm_editor_hint_add_preset ">Ім'я</string>
+    <string name="fm_editor_hint_add_preset ">"Ім'я"</string>
     <string name="fm_all_presets_title">Всі передустановки</string>
     <string name="fm_delete_presets_title">Видалити передустановки</string>
     <string name="no_preset_found">Не знайдено предустановок</string>
     <string name="fm_comfirm_scanning">Видалити всі предустановки і сканувати доступні канали?</string>
-    <string name="fm_preset_edit_title">Ім'я передустановки для</string>
+    <string name="fm_preset_edit_title">"Ім'я передустановки для"</string>
     <string name="drm_interval_type_msg">Цей файл не може бути використаний для %s. Відтворити його?</string>
     <string name="fm_label_mhz">MHz</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="cit_audio_loopback_dualmic_earpiece_title">Перевірка функції шумозаглушення мікрофона</string>
 	<string name="cit_audio_loopback_next">Далі</string>
@@ -17,10 +17,10 @@
 	<string name="cit_bluetooth_address_open_error">Помилка включення Bluetooth, не вдається отримати адресу Bluetooth</string>
 	<string name="cit_bluetooth_not_support">Ваш пристрій не підтримує Bluetooth</string>
 	<string name="cit_bluetooth_scan_retry">Сканування</string>
-	<string name="cit_bluetooth_scanning">Сканування доступних Bluetooth пристроїв займе близько 12 секунд...</string>
+	<string name="cit_bluetooth_scanning">Сканування доступних Bluetooth пристроїв займе близько 12 секунд…</string>
 	<string name="cit_bluetooth_scanning_bluetooth_done">Перевірка завершена, Bluetooth пристрою не знайдено</string>
 	<string name="cit_bluetooth_scanning_bluetooth_error">Не вдалося завершити перевірку Bluetooth пристроїв</string>
-	<string name="cit_bluetooth_scanning_opening_bluetooth">Включення Bluetooth...</string>
+	<string name="cit_bluetooth_scanning_opening_bluetooth">Включення Bluetooth…</string>
 	<string name="cit_button_light_off">Вимкнути підсвічування кнопок</string>
 	<string name="cit_button_light_on">Включити підсвічування кнопок</string>
 	<string name="cit_charger_plugin_check_summary">Перевірка підключення зарядного пристрою</string>
@@ -28,7 +28,7 @@
 	<string name="cit_charger_plugout_check_summary">Перевірка відключення зарядного пристрою</string>
 	<string name="cit_charger_plugout_check_title">Перевірка відключення зарядного пристрою</string>
 	<string name="cit_charger_waiting_in">будь Ласка, приєднайте зарядний пристрій</string>
-	<string name="cit_charger_waiting_out">будь Ласка від'єднайте зарядний пристрій</string>
+	<string name="cit_charger_waiting_out">"будь Ласка від'єднайте зарядний пристрій"</string>
 	<string name="cit_display_check_summary">Тест буде змінювати колір екрану. Якщо ви хочете використовувати свої зображення, покладіть відповідні знімки в корінь SD-карти з розширенням *.bmp</string>
 	<string name="cit_display_check_title">Перевірка дисплея</string>
 	<string name="cit_display_continue">Торкніться екрана</string>
@@ -44,11 +44,11 @@
 	<string name="cit_fm_not_supported">Ці моделі не підтримують FM</string>
 	<string name="cit_fm_open_1">FM - 88.5</string>
 	<string name="cit_fm_open_2">FM - 107.9</string>
-	<string name="cit_fm_open_bluetooth">Увімкнути Bluetooth...</string>
+	<string name="cit_fm_open_bluetooth">Увімкнути Bluetooth…</string>
 	<string name="cit_fm_start_service">Включити аудіо</string>
 	<string name="cit_gps_check_summary">Інформація GPS</string>
 	<string name="cit_gps_check_title">GPS-тест</string>
-	<string name="cit_gps_disabled">GPS відключений Натисніть, щоб включити GPS...</string>
+	<string name="cit_gps_disabled">GPS відключений Натисніть, щоб включити GPS…</string>
 	<string name="cit_gps_satellite_count">Число супутників: %d</string>
 	<string name="cit_gps_satellite_prn">Prn: %s</string>
 	<string name="cit_gps_satellite_snr">Snr: %s</string>
@@ -65,7 +65,7 @@
 	<string name="cit_headset_button_stop">Стоп</string>
 	<string name="cit_headset_button_unknown">Невідомо</string>
 	<string name="cit_headset_loopback_check_summary">Перевірка гарнітури, підключіть гарнітуру до телефону, говоріть у мікрофон, якщо микрафон працює ви почуєте свій голос у навушниках</string>
-	<string name="cit_headset_loopback_check_title">Перевірка зворотного зв'язку навушників</string>
+	<string name="cit_headset_loopback_check_title">"Перевірка зворотного зв'язку навушників"</string>
 	<string name="cit_headset_plug_detect_summary">Перевірка навушників, перед перевіркою переконайтесь, що гарнітура підключена</string>
 	<string name="cit_headset_plug_detect_title">Перевірка навушників</string>
 	<string name="cit_headset_plug_finish">Навушники підключені</string>
@@ -103,9 +103,9 @@
 	<string name="cit_notificationlight_off">Включити</string>
 	<string name="cit_notificationlight_on">Вимкнути</string>
 	<string name="cit_pass">OK</string>
-	<string name="cit_play_sd_mp3_summary">Перевірка звуку. Покладіть файл з ім'ям music.mp3 в корінь SD-карти</string>
+	<string name="cit_play_sd_mp3_summary">"Перевірка звуку. Покладіть файл з ім'ям music.mp3 в корінь SD-карти"</string>
 	<string name="cit_play_sd_mp3_title">Перевірка MP3 з SD-карти</string>
-	<string name="cit_playing_sd_mp3">Music.mp3 грає...</string>
+	<string name="cit_playing_sd_mp3">Music.mp3 грає…</string>
 	<string name="cit_pointer_location_title">Перевірка тачскріна</string>
 	<string name="cit_power_check_summary">Залишок енергії</string>
 	<string name="cit_power_check_title">Заряд батареї</string>
@@ -130,12 +130,12 @@
 	<string name="cit_sim_check_title">Перевірка Sim карти</string>
 	<string name="cit_sim_error_unknown">Невідомо</string>
 	<string name="cit_sim_network_operator">Оператор мережі:</string>
-	<string name="cit_sim_network_operator_name">Ім'я оператора мережі:</string>
+	<string name="cit_sim_network_operator_name">"Ім'я оператора мережі:"</string>
 	<string name="cit_sim_network_type">Тип мережі:</string>
 	<string name="cit_sim_serial_number">Номер SIM-карти:</string>
 	<string name="cit_sim_sim_country">Країна:</string>
 	<string name="cit_sim_sim_operator">Код постачальника SIM:</string>
-	<string name="cit_sim_sim_operator_name">Ім'я постачальника SIM:</string>
+	<string name="cit_sim_sim_operator_name">"Ім'я постачальника SIM:"</string>
 	<string name="cit_sim_state_absent">Немає SIM-карти</string>
 	<string name="cit_sim_state_network_locked">PIN</string>
 	<string name="cit_sim_state_pin_required">Потрібно PIN-код</string>
@@ -153,7 +153,7 @@
 	<string name="cit_tool_log_bugreport">Звіт про помилку</string>
 	<string name="cit_tool_log_dmesg">DMESG</string>
 	<string name="cit_tool_log_file_not_exist">файл %s не існує</string>
-	<string name="cit_tool_log_generate_bugreport">Повідомлення про помилку генерується...</string>
+	<string name="cit_tool_log_generate_bugreport">Повідомлення про помилку генерується…</string>
 	<string name="cit_tool_log_kmsg">Останній звіт ядра</string>
 	<string name="cit_tool_log_logcat">ADB звіт</string>
 	<string name="cit_tool_log_modem">Звіт модему</string>
@@ -178,8 +178,8 @@
 	<string name="cit_tool_wifi_rx_13">Rx:13</string>
 	<string name="cit_tool_wifi_rx_7">Rx:7</string>
 	<string name="cit_tool_wifi_rx_ap">Rx:AP</string>
-	<string name="cit_tool_wifi_rx_ap_name">Введіть ім'я AP</string>
-	<string name="cit_tool_wifi_rx_ap_not_null">AP ім'я або тип не може бути порожнім</string>
+	<string name="cit_tool_wifi_rx_ap_name">"Введіть ім'я AP"</string>
+	<string name="cit_tool_wifi_rx_ap_not_null">"AP ім'я або тип не може бути порожнім"</string>
 	<string name="cit_tool_wifi_rx_ap_type">Введіть тип AP</string>
 	<string name="cit_tool_wifi_rx_ap_type_error">AP помилка, введіть повторно (BSS/AdHoc)</string>
 	<string name="cit_tool_wifi_rx_count_error">Помилка</string>
@@ -208,13 +208,13 @@
 	<string name="cit_vibrator_play_touch_pattern">Шок (не натискати)</string>
 	<string name="cit_vibrator_short">Короткі</string>
 	<string name="cit_vibrator_show_advanced">Показати розширені налаштування</string>
-	<string name="cit_wifi_address_check_summary">Wi-Fi адреса, дані поточного з'єднання</string>
+	<string name="cit_wifi_address_check_summary">"Wi-Fi адреса, дані поточного з'єднання"</string>
 	<string name="cit_wifi_address_check_title">Перевірка Wi-Fi адреси</string>
 	<string name="cit_wifi_address_error">Не вдається отримати Wi-Fi адресу, будь ласка, переконайтеся, що ви підключені до точки доступу Wi-Fi</string>
 	<string name="cit_wifi_ap_scan_check_summary">Wi-Fi інформація</string>
 	<string name="cit_wifi_ap_scan_check_title">Сканування Wi-Fi</string>
 	<string name="cit_wifi_ap_scan_retry">Сканування</string>
-	<string name="cit_wifi_ap_scanning">Сканування AP...</string>
+	<string name="cit_wifi_ap_scanning">Сканування AP…</string>
 	<string name="cit_wifi_fail_to_scan">Не вдається виконати сканування мережі</string>
 	<string name="cit_wifi_state_refresh">оновлення</string>
 </resources>

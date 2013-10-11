@@ -38,7 +38,7 @@
     <string name="menu_font_large">Великий</string>
     <string name="menu_font_super">Величезний</string>
     <string name="menu_folder_change_name">Перейменувати</string>
-    <string name="folder_exist">Папка \"%1$s\" вже існує, введіть інше ім'я</string>
+    <string name="folder_exist">"Папка \"%1$s\" вже існує, введіть інше ім'я"</string>
     <string name="menu_share">Відправити</string>
     <string name="menu_send_to_desktop">На рабочий стіл</string>
     <string name="menu_title_select_folder">Виберіть папку</string>
@@ -90,7 +90,7 @@
     <string name="preferences_toast_success_set_accout">Акаунт \"%1$s\"\nвстановлений для синхронізації</string>
     <string name="preferences_bg_random_appear_title">Випадковий колір нотаток</string>
     <string name="call_record_folder_name">Нотатка розмови</string>
-    <string name="hint_foler_name">Введіть ім'я</string>
+    <string name="hint_foler_name">"Введіть ім'я"</string>
     <string name="search_label">Пошук нотаток</string>
     <string name="search_hint">Знайти нотатки</string>
     <string name="search_setting_description">Текст у нотатках</string>

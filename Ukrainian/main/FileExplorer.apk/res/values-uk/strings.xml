@@ -223,7 +223,7 @@
     <string name="bind_account">"Прив'язати до аккаунту KuaiPan"</string>
     <string name="bind_account_summary">Якщо у Вас вже є аккаунт KuaiPan， тоді ви можете увійти до нього, щоб отримати доступ до його даних.</string>
     <string name="binded_accout_title">"Ви вже прив'язані до аккаунту KuiaPan"</string>
-    <string name="binded_accout_description">Два аккаунта були об'єднані. Для входу Ви можете використовувати аккаунт Xiaomi, або аккаунт KuaiPan - обидва мають досту до Ваших даних</string>
+    <string name="binded_accout_description">"Два аккаунта були об'єднані. Для входу Ви можете використовувати аккаунт Xiaomi, або аккаунт KuaiPan - обидва мають досту до Ваших даних"</string>
     <string name="binding_accout_title">"Прив'язка до існуючого аккаунту KuaiPan"</string>
     <string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
     <string name="binded_accout_warning">Увага! Ця операція незворотна!</string>

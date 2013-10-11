@@ -84,7 +84,7 @@
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">Очікування</string>
     <string name="paused">Очікування</string>
-    <string name="connecting">З'єднання</string>
+    <string name="connecting">"З'єднання"</string>
     <string name="verifying">Перевірка</string>
     <string name="installing">Встановлення</string>
     <string name="size">(%1$s)</string>
@@ -108,7 +108,7 @@
     <string name="menu_update">Оновити</string>
     <string name="menu_ignore">Ігнорувати</string>
     <string name="menu_detail">Показати подробиці додатка</string>
-    <string name="connect_fail">Помилка встановлення %1$s:помилка зв'язку. Повторіть ще раз</string>
+    <string name="connect_fail">"Помилка встановлення %1$s:помилка зв'язку. Повторіть ще раз"</string>
     <string name="connect_no_fit_fail">Помилка встановлення %1$s:телефон не сумісний з цим додатком</string>
     <string name="download_start_fail">Помилка встановлення %1$s:неможливо створити завдання завантаження</string>
     <string name="download_deleted_fail">Помилка встановлення %1$s:завантаження видалено</string>
@@ -125,7 +125,7 @@
     <string name="system_app_sign_not_match_fail">Помилка встановлення %1$s: некоректний підпис додатка, оновлення не завершено</string>
     <string name="remove_package_timeout_fail">Помилка встановлення %1$s неможливо встановити, видаліть вручну</string>
     <string name="no_network">Немає доступу до інтернету. Перевірте і обновіть :)</string>
-    <string name="no_data">Помилка зв'язку, перевірте з'єднання</string>
+    <string name="no_data">"Помилка зв'язку, перевірте з'єднання"</string>
     <string name="no_fitness">От халепа! Немає потрібних додатків, спробуйте пошук :)</string>
     <string name="no_update">Доступні оновлення відсутні</string>
     <string name="no_local_apps">Немає встановлених додатків</string>
@@ -192,13 +192,13 @@
     <string name="forget_password"><u>забув(ла) пароль</u></string>
     <string name="password">Пароль</string>
     <string name="password_hint_text">6~16 символів</string>
-    <string name="bad_authentication">Помилка аутентифікації. Неправильне ім'я користувача або пароль.</string>
+    <string name="bad_authentication">"Помилка аутентифікації. Неправильне ім'я користувача або пароль."</string>
     <string name="micloud_welcome_banner">Акаунт XiaoMi</string>
     <string name="micloud_account_name">Акаунт XiaoMi</string>
     <string name="micloud_log_prompt">Увійти в акаунт XiaoMi</string>
     <string name="micloud_use_existing">Існуючий</string>
     <string name="micloud_reg_new">Новий</string>
-    <string name="micloud_error_empty_username">Не введене ім'я користувача</string>
+    <string name="micloud_error_empty_username">"Не введене ім'я користувача"</string>
     <string name="micloud_error_empty_pwd">Невведений пароль</string>
     <string name="micloud_error_illegal_pwd">Невірний пароль</string>
     <string name="micloud_input_email_prompt">Введіть свій e-mail</string>
@@ -216,7 +216,7 @@
     <string name="micloud_active_sms_sent">Перевірочне повідомлення надіслано</string>
     <string name="micloud_active_sms_status_wait">Зачекайте хвилинку, будь ласка…</string>
     <string name="micloud_active_sms_status_fail">Помилка реєстрації</string>
-    <string name="micloud_active_sms_status_network">Немає зв'язку</string>
+    <string name="micloud_active_sms_status_network">"Немає зв'язку"</string>
     <string name="micloud_active_sms_status_success">Реєстрація пройшла успішно</string>
     <string name="completed">Завершити</string>
     <string name="title_login">Увійти в акаунт XiaoMi</string>

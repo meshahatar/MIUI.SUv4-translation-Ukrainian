@@ -28,7 +28,7 @@
     <string name="listen_to_music_online_settings">Слухати музику онлайн</string>
     <string name="listen_to_online_summary">Збільшиться обсяг завантажуваних даних. Рекомендується вимкнути.</string>
     <string name="correct_id3_settings">Коригування ID3</string>
-    <string name="correct_id3_summary">Може збільшити витрати на зв'язок. Рекомендується вимкнути.</string>
+    <string name="correct_id3_summary">"Може збільшити витрати на зв'язок. Рекомендується вимкнути."</string>
     <string name="player_display_settings">ЕКРАН ПЛЕЄРА</string>
     <string name="lyric_display_settings">Показати тексти пісень</string>
     <string name="lyric_display_summary">Показати тексти пісень у вікні плеєра. Рекомендується включити.</string>
@@ -38,7 +38,7 @@
     <string name="spectrogram_display_summary">Може негативно впливати на продуктивність. Рекомендується вимкнути для слабких пристроїв.</string>
     <string name="lyric_and_album">ТЕКСТИ ПІСЕНЬ ТА АЛЬБОМИ</string>
     <string name="android_album_settings">Вбудовані обкладинки</string>
-    <string name="android_album_summary">Прив'язане до імені файлу. Може спричиняти помилки. Рекомендується вимкнути.</string>
+    <string name="android_album_summary">"Прив'язане до імені файлу. Може спричиняти помилки. Рекомендується вимкнути."</string>
     <string name="auto_correct_id3_settings">Автокоригування ID3</string>
     <string name="auto_correct_id3_summary">Автокоригування ID3 при програванні через сервіс Baidu.</string>
     <string name="music_filter">Фільтр файлів</string>
@@ -68,7 +68,7 @@
     <string name="play_and_download_summary">Автоматично завантажувати музику, прослухану онлайн. Рекомендується включити.</string>
     <string name="screen_bright_wake">Тримати екран включеним</string>
     <string name="screen_bright_wake_summary">Тримати екран включеним на екрані поточного відтворення. Рекомендується включити.</string>
-    <string name="keep_quit_position_settings">Запам'ятовувати позицію</string>
+    <string name="keep_quit_position_settings">"Запам'ятовувати позицію"</string>
     <string name="keep_quit_position_summary">Продовжувати відтворення з останньої позиції до виходу. Рекомендується включити.</string>
     <string name="fade_effect_settings">Градієнтний ефект переключення</string>
     <string name="fade_effect_summary">Вирівнювання гучності між треками. Рекомендується включити.</string>
@@ -76,7 +76,7 @@
     <string name="delete_item">Видалити</string>
     <string name="remove_item">Прибрати</string>
     <string name="delete_song_desc">Видалити вибрані пісні (%s шт.)?</string>
-    <string name="scanning">Сканую карту пам'яті…</string>
+    <string name="scanning">"Сканую карту пам'яті…"</string>
     <string name="scanning_nosdcard">Сканую USB накопичувач…</string>
     <string name="online_indicator">-онлайн</string>
     <string name="search_title">Пошук</string>
@@ -90,11 +90,11 @@
     <string name="recentlyadded_title">Нещодавно додано</string>
     <string name="recentlyplayed_title">Нещодавно відтворювалося</string>
     <string name="frequentlyplayed_title">Часто відтворюється</string>
-    <string name="sdcard_missing_message">Не вставлена карта пам'яті.</string>
+    <string name="sdcard_missing_message">"Не вставлена карта пам'яті."</string>
     <string name="sdcard_missing_message_nosdcard">Не підключений USB накопичувач.</string>
-    <string name="sdcard_busy_message">Карта пам'яті зайнята.\n Будь ласка, перевірте стан карти пам'яті.</string>
+    <string name="sdcard_busy_message">"Карта пам'яті зайнята.\n Будь ласка, перевірте стан карти пам'яті."</string>
     <string name="sdcard_busy_message_nosdcard">USB накопичувач зайнятий.</string>
-    <string name="sdcard_error_message">На карті пам'яті сталася помилка.</string>
+    <string name="sdcard_error_message">"На карті пам'яті сталася помилка."</string>
     <string name="sdcard_error_message_nosdcard">На USB накопичувачі сталася помилка.</string>
     <string name="unknown_artist_name">Невідомий виконавець</string>
     <string name="unknown_album_name">Невідомий альбом</string>
@@ -124,7 +124,7 @@
     <string name="download_finished">Завантажено</string>
     <string name="download_processing">Завантажується</string>
     <string name="download_batch_start">Почати завантаження всіх</string>
-    <string name="delete_file_from_sdcard">Також видалити файл з карти пам'яті</string>
+    <string name="delete_file_from_sdcard">"Також видалити файл з карти пам'яті"</string>
     <string name="recommend">Рекомендувати</string>
     <string name="billboard">Афіша</string>
     <string name="channel">FM</string>
@@ -169,7 +169,7 @@
     <string name="equalizer_delete_success">Профіль еквалайзера видалено</string>
     <string name="equalizer_enable">Налаштування еквалайзера</string>
     <string name="equalizer_save_success">Профіль еквалайзера збережений</string>
-    <string name="create_equalzier_create_text_prompt">Ім'я ефекту</string>
+    <string name="create_equalzier_create_text_prompt">"Ім'я ефекту"</string>
     <string name="new_equalizer_name_template">Новий профіль %d</string>
     <string name="custom">Налаштувати</string>
     <string name="lpa_off_hint">Ви повинні відключити енергозберігаюче відтворення, щоб включити еквалайзер. Це можна зробити в меню Налаштування-> Система -> Налаштування живлення. При цьому енергоспоживання збільшиться.</string>
@@ -210,7 +210,7 @@
     <string name="playlist_recently_played">Нещодавно відтворювалося</string>
     <string name="playlist_frequently_played">Часто відтворюється</string>
     <string name="playlist_favorite">Обране</string>
-    <string name="create_playlist_create_text_prompt">Ім'я списку відтворення</string>
+    <string name="create_playlist_create_text_prompt">"Ім'я списку відтворення"</string>
     <string name="create_confirm">Зберегти</string>
     <string name="overwrite_confirm">Перезаписати</string>
     <string name="picker_song_add">Додати (%d)</string>

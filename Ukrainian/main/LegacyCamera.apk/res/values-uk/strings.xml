@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="camera_error_title">Помилка камери</string>
-    <string name="cannot_connect_camera">Немає з'єднання з камерою</string>
+    <string name="cannot_connect_camera">"Немає з'єднання з камерою"</string>
     <string name="camera_disabled">Камера вимкнута правилом безпеки</string>
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Відеокамера</string>

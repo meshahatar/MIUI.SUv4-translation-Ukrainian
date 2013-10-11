@@ -119,7 +119,7 @@
     <string name="password_error">Будь ласка, введіть пароль від Вашого акаунту</string>
     <string name="progress_creating">Отримую інформацію про замовлення…</string>
     <string name="progress_loading">Обробляю, будь ласка, почекайте…</string>
-    <string name="progress_connecting">З'єднання…</string>
+    <string name="progress_connecting">"З'єднання…"</string>
     <string name="button_cancel">Скасувати</string>
     <string name="button_retry">Повторити</string>
     <string name="button_pay">Підтвердити</string>
@@ -131,7 +131,7 @@
     <string name="error_password_title">Неправильний пароль</string>
     <string name="error_password_summary">Будь ласка, перевірте правильність введення пароля</string>
     <string name="error_network_title">Помилка мережі</string>
-    <string name="error_network_summary">Неможливо підключитися. Будь ласка, перевірте з'єднання</string>
+    <string name="error_network_summary">"Неможливо підключитися. Будь ласка, перевірте з'єднання"</string>
     <string name="error_safe_title">Безпечна оплата</string>
     <string name="error_safe_summary">Будь ласка, введіть ще раз пароль від аккаунта</string>
     <string name="error_auth_title">Помилка акаунту</string>
@@ -210,10 +210,10 @@
     <string name="progress_error_title">Не вдалося поповнити рахунок</string>
     <string name="progress_error_common">Не вдалося поповнити рахунок, будь ласка, спробуйте пізніше.</string>
     <string name="progress_error_server">Помилка серверу, будь ласка, спробуйте пізніше.</string>
-    <string name="progress_error_network">Не вдалося встановити з'єднання, перевірте підключення до мережі.</string>
+    <string name="progress_error_network">"Не вдалося встановити з'єднання, перевірте підключення до мережі."</string>
     <string name="progress_error_invalid_number">Невірний номер картки або пароль, будь ласка, спробуйте ще раз.</string>
     <string name="progress_error_waiting">Платіж все ще не підтверджений, будь ласка, спробуйте пізніше.</string>
-    <string name="progress_warning_contact_server">Платіж все ще не підтверджений. \n1. Будь ласка, зв'яжіться зі службою підтримки у Шеньчжоу: %1$s \n2. Повідомте свій серійний номер: %2$s</string>
+    <string name="progress_warning_contact_server">"Платіж все ще не підтверджений. \n1. Будь ласка, зв'яжіться зі службою підтримки у Шеньчжоу: %1$s \n2. Повідомте свій серійний номер: %2$s"</string>
     <string name="btn_back">Назад</string>
     <string name="btn_recharge_other">Поповнити</string>
     <string name="btn_call">Зателефонувати</string>

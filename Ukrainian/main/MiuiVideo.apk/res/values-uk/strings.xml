@@ -35,7 +35,7 @@
     <string name="music">Музика</string>
     <string name="variety">Різне</string>
     <string name="comment">Коментарі</string>
-    <string name="comment_hint">Коментар повинен містити як мінімум п'ять слів</string>
+    <string name="comment_hint">"Коментар повинен містити як мінімум п'ять слів"</string>
     <string name="publish">Опублікувати</string>
     <string name="no_comment_tip">Недостатньо слів у коментарі</string>
     <string name="comment_detailInfo">Інформація про коментарі</string>
@@ -50,14 +50,14 @@
     <string name="day">Число</string>
     <string name="update">Оновити</string>
     <string name="update_to">Оновлено</string>
-    <string name="jni_res_connect_error">Не вдалося завантажити дані, перевірте стан з'єднання</string>
-    <string name="jni_res_timout">Не вдалося завантажити дані, перевірте стан з'єднання</string>
+    <string name="jni_res_connect_error">"Не вдалося завантажити дані, перевірте стан з'єднання"</string>
+    <string name="jni_res_timout">"Не вдалося завантажити дані, перевірте стан з'єднання"</string>
     <string name="jni_res_session_timout">Результат по закінченню часу</string>
     <string name="jni_res_json_parse_error">Отриманий результат невірний</string>
     <string name="jni_res_unkown_error">Сталася невідома помилка</string>
     <string name="jni_invalid_param">Вказано невірний параметр</string>
     <string name="jni_no_media_source">Відсутні джерела відео</string>
-    <string name="load_data_failed">Не вдалося завантажити дані, перевірте стан з'єднання</string>
+    <string name="load_data_failed">"Не вдалося завантажити дані, перевірте стан з'єднання"</string>
     <string name="loading_video">Завантаження відео…</string>
     <string name="loading">Йде завантаження…</string>
     <string name="no_filter_media">Відсутні файли, що відповідають фільтрації</string>

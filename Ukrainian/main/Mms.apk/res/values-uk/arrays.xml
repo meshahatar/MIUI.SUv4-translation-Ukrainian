@@ -35,7 +35,7 @@
         <item>10 раз</item>
   </string-array>
   <string-array name="contact_entries">
-        <item>Ім'я</item>
+        <item>"Ім'я"</item>
         <item>Нік</item>
         <item>Телефон</item>
         <item>E-mail</item>

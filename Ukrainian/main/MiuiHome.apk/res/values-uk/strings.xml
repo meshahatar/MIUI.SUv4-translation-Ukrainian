@@ -25,7 +25,7 @@
   <string name="menu_wallpaper">Шпалери</string>
   <string name="menu_search">Пошук</string>
   <string name="menu_workspace_preview">Передпроглядання</string>
-  <string name="online_no_network">Неможливо з'єднатися з мережею</string>
+  <string name="online_no_network">"Неможливо з'єднатися з мережею"</string>
   <string name="online_search_hint">Пошук онлайн ресурсів</string>
   <string name="menu_back_desktop">Додому</string>
   <string name="menu_settings">Налаштування</string>
@@ -161,12 +161,12 @@
   <string name="preferences_title">Налаштування лаунчера</string>
   <string name="processing">Обробка…</string>
   <string name="preferences_general_title">Загальні параметри</string>
-  <string name="pref_keep_in_memory_title">Залишати в пам'яті</string>
-  <string name="pref_keep_in_memory_summary">Ніколи не вивантажувати лаунчер з оперативної пам'яті</string>
+  <string name="pref_keep_in_memory_title">"Залишати в пам'яті"</string>
+  <string name="pref_keep_in_memory_summary">"Ніколи не вивантажувати лаунчер з оперативної пам'яті"</string>
   <string name="pref_render_in_truecolor_title">Висока якість графіки</string>
   <string name="pref_render_in_truecolor_summary">Відключення цієї опції поліпшить відображення графіки</string>
   <string name="pref_enable_drawing_cache_title">Кеш графіки</string>
-  <string name="pref_enable_drawing_cache_summary">Відключення звільняє пам'ять. Викликає деякий пригальмовування</string>
+  <string name="pref_enable_drawing_cache_summary">"Відключення звільняє пам'ять. Викликає деякий пригальмовування"</string>
   <string name="pref_icon_shadow_title">Тіні значків</string>
   <string name="pref_icon_shadow_summary">Вкл/викл тіні значків робочого столу</string>
   <string name="pref_screen_transformation_type_title">Ефекти переходу</string>
